@@ -15,7 +15,8 @@ npm -i <npm-moduleName>
 
 Running the Application
 To run the Fitness App, execute the following commands:
-![image](https://github.com/Tejitha-reddy/fitness-app/assets/153427209/bec6d3f7-073a-4480-8d51-0c487e7b3eed)
+![image](https://github.com/Tejitha-reddy/fitness-app/assets/153427209/bb32d468-5d6b-4623-a905-880b9282be77)
+
 
 This will start the development server and open the application in your default web browser.
 ![image](https://github.com/Tejitha-reddy/fitness-app/assets/153427209/64e96d2d-ecc2-42a7-b415-14d862a73b47)
